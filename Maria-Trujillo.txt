@@ -1,3 +1,6 @@
+codepen link: https://codepen.io/mtruj013/pen/vYONBdd?editors=1100
+  
+  
   1. What is Semantic HTML? 
         To give code meaning.
     2. What is HTML used for? 
